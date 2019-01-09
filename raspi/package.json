@@ -1,0 +1,13 @@
+{
+  "name": "raspi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-modules --no-warnings index"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "socket.io-client": "^2.2.0",
+    "socket.io-stream": "^0.9.1"
+  }
+}
